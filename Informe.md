@@ -28,3 +28,5 @@ Todos los objetivos deben tener un solo verbo con precedencia con la taxonomia d
 4.-Diagrama de clases.
 
 5.-Cronograma de trabajo
+
+Ver tuto de markdown en github (imagenes) 
