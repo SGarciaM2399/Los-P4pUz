@@ -21,7 +21,7 @@ Solucion: Implementar una estructura DataFrame basada en una estructura data fra
 
 Objetivos
 ----------
-Nuestro objetivo propuesto es crear un programa usando todo lo aprendido durante el presente ciclo academico como los ordenamientos, busqueda binaria, listas, entre otros y a la vez facil de usar por parte del usuario y con una interfaz sencilla y facil de comprender.
+Nuestro objetivo propuesto es crear un programa usando todo lo aprendido durante el presente ciclo academico como los ordenamientos, busqueda binaria, listas, entre otros y a la vez haremos que este sea mas facil de usar por parte del usuario, con una interfaz sencilla y facil de comprender.
 
 Marco conceptual
 -----------------
