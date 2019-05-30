@@ -21,3 +21,4 @@ Solucion: Implementar una estructura DataFrame basada en una estructura data fra
 
 Objetivos
 ----------
+Nuestro objetivo propuesto es dar solucion a la problematica xddddd
