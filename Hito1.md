@@ -28,3 +28,6 @@ Marco conceptual
 -DataFrame: Es una estuctura de datos, en los que esta compuesto por filas y columnas en donde podremos almacenar los datos datos que deseemos ya que es posible almacenar grandes cantidades.
 
 -Arbol: Un árbol es una estructura no lineal en la que cada nodo puede apuntar a uno o varios nodos.
+
+Cronograma
+------------
