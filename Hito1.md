@@ -11,7 +11,7 @@ Equipo de trabajo:
 
 Introduccion
 -------------
-Motivacion: Realizaremos este proyecto con el objetivo de crear una solucion en la atención de necesidades teniendo en cuenta restricciones económicas, sociales, políticas, éticas, de salud y seguridad y otras propias del entorno empresarial mediante un programa el cual nosotros diseñaremos y crearemos.
+Motivacion: Realizaremos este proyecto con el objetivo de crear una solucion a la atención de necesidades teniendo en cuenta restricciones económicas, sociales, políticas, éticas, de salud y seguridad y otras propias del entorno empresarial mediante un programa el cual nosotros diseñaremos y crearemos.
 
 Problematica: Muchas veces tenemos millones de registros y no podemos manejar estas grandes cantidades de datos, ya sea porque el sistema que se hizo no es el adecuado o por una mala implementacion por parte de los usuarios.
 
