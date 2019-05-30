@@ -29,4 +29,4 @@ Marco conceptual
 
 Diagrama de Clases
 ------------------
-![Diagrama de Clases](DiagramaDeClases.PNG)
+![Diagrama de Clases](DiagramaClases.PNG)
