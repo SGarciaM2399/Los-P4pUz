@@ -25,3 +25,4 @@ Nuestro objetivo propuesto es crear un programa usando todo lo aprendido durante
 
 Marco conceptual
 -----------------
+DataFrame: Es como una hoja de datos, en los que cada fila corresponde a un sujeto y cada columna a una variable. La estructura de un data.frame es muy similar a la de una matriz. La diferencia es que una matriz sólo admite valores numéricos, mientras que en un dataframe podemos incluir también datos alfanuméricos. 
