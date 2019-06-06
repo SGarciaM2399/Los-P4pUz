@@ -29,7 +29,7 @@ Marco conceptual
 
 Diagrama de Clases
 ------------------
-![Diagrama de Clases](Diagrama de Clases.PNG)
+![Diagrama de Clases](DiagramaCorregido1.PNG)
 
 Cronograma del Trabajo Final
 ----------------------------
