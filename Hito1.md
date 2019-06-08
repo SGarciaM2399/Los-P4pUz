@@ -11,15 +11,15 @@ Equipo de trabajo:
 
 Introduccion
 -------------
-Motivacion: Realizaremos este proyecto con el objetivo de crear una solucion a la atención de necesidades teniendo en cuenta restricciones económicas, sociales, políticas, éticas, de salud y seguridad y otras propias del entorno empresarial mediante un programa el cual nosotros diseñaremos y crearemos.
+Motivacion: Realizaremos este proyecto con el objetivo de crear una solucion a la atención de necesidades teniendo en cuenta restricciones económicas, sociales, políticas, éticas, de salud y seguridad y otras propias del entorno empresarial mediante un programa en el lenguaje c++ el cual nosotros diseñaremos y crearemos.
 
 Problematica: Muchas veces tenemos millones de registros y no podemos manejar estas grandes cantidades de datos, ya sea porque el sistema que se hizo no es el adecuado o por una mala implementacion por parte de los usuarios.
 
-Solucion: Implementar una estructura DataFrame basada en una estructura data frame de phyton.
+Solucion: Implementar una estructura DataFrame basada en la estructura data frame de phyton (pandas).
 
 Objetivos
 ----------
-Nuestro objetivo propuesto es crear un programa usando todo lo aprendido durante el presente ciclo academico como los ordenamientos, busqueda binaria, listas, entre otros y a la vez haremos que este sea mas facil de usar por parte del usuario, con una interfaz sencilla y facil de comprender.
+Nuestro objetivo propuesto es crear un programa usando todo lo aprendido durante el presente ciclo academico como los ordenamientos, busqueda binaria, listas, entre otros y a la vez haremos que este sea facil de usar por parte del usuario, con una interfaz sencilla y facil de comprender, ademas de que el tiempo en que se demore en buscar los elementos dados sea el minimo posible.
 
 Marco conceptual
 -----------------
