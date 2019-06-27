@@ -22,9 +22,9 @@ Nuestro objetivo propuesto es crear un programa usando todo lo aprendido durante
 
 Marco conceptual
 -----------------
--DataFrame: Es una estuctura de datos compuesta por filas y columnas similar a una matriz que nos permite manipular una cantidad de datos muy grande. 
+- DataFrame: Es una estuctura de datos compuesta por filas y columnas similar a una matriz que nos permite manipular una cantidad de datos muy grande. 
 
--Arbol:En ciencias de la computación y en informática, un árbol es un tipo abstracto de datos (TAD) ampliamente usado que imita la estructura jerárquica de un árbol, con un valor en la raíz y subárboles con un nodo padre, representado como un conjunto de nodos enlazados.
+- Arbol:En ciencias de la computación y en informática, un árbol es un tipo abstracto de datos (TAD) ampliamente usado que imita la estructura jerárquica de un árbol, con un valor en la raíz y subárboles con un nodo padre, representado como un conjunto de nodos enlazados.
 
 Una estructura de datos de árbol se puede definir de forma recursiva (localmente) como una colección de nodos (a partir de un nodo raíz), donde cada nodo es una estructura de datos con un valor, junto con una lista de referencias a los nodos (los hijos) , con la condición de que ninguna referencia esté duplicada ni que ningún nodo apunte a la raíz.
 
