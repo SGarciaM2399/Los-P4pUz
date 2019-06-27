@@ -14,7 +14,7 @@ Motivacion: Realizaremos este proyecto con el objetivo de crear una solucion a l
 
 Problematica: Muchas veces tenemos millones de registros y no podemos manejar estas grandes cantidades de datos, ya sea porque el sistema que se hizo no es el adecuado o por una mala implementacion por parte de los usuarios.
 
-Solucion: Implementar una estructura DataFrame basada en la estructura data frame de phyton (pandas).
+Solucion: Implementar una estructura DataFrame basada en la libreria de phyton (pandas).
 
 Objetivos
 ----------
@@ -63,9 +63,9 @@ Pila
 
 Conclusiones:
 ----------------
-De este trabajo se puede concluir que gracias a la utilización de estructura de datos Avanzados como lo es las Colas o queues y los Arboles Binarios, se pueden obtener resultados óptimos si acotas la situación hacia un objetivo especifico, puesto que no todos los algoritmos son el mas apropiado para ciertas tareas especificas
+De este trabajo se puede concluir que gracias a la utilización de estructura de datos Avanzados como los Arboles Binarios y algoritmos de búsqueda, se pueden obtener resultados óptimos si acotas la situación hacia un objetivo especifico, puesto que no todos los algoritmos son el mas apropiado para ciertas tareas especificas
 
 Refeencias:
 ---------------
-*Aula virtual: material de clase
-*https://www.geeksforgeeks.org/
+- Aula virtual: material de clase
+- https://www.geeksforgeeks.org/
